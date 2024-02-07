@@ -1,4 +1,4 @@
-# PLC_Comm
+# PLC TCP Socket Communication
 
 Scripts and Programs for communication with Siemens and Allen Bradley PLCs, via TCP sockets.
 
