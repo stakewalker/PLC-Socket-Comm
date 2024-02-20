@@ -37,5 +37,5 @@ while True:
                 break
 
     finally:
-        # Close the connection
+        # Close connection
         connection.close()
