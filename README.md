@@ -1,6 +1,7 @@
 # PLC Socket Communication via TCP
 
 Scripts and Programs for communication with Allen Bradley and Siemens PLCs, via TCP sockets.
+
 It send and receive data from PLCs and could serve as a starting point for your industrial projects!
 
 
