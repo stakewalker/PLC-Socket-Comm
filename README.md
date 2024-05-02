@@ -1,16 +1,17 @@
-# PLC Socket Communication via TCP
+# PLC Communication via TCP Sockets
 
-Scripts and Programs for communication with Allen Bradley and Siemens PLCs, via TCP sockets.
+Python Scripts and Ladder Programs for communication between Allen Bradley and Siemens PLCs, via TCP sockets.
 
-It send and receive data from PLCs and could serve as a starting point for your industrial projects!
-
-
-## Software Used:
-- Studio 5000 (v32) for Allen Bradley PLC
-- Tia Portal (v18) for Siemens PLC
-- Python 3.11 for scripts
+It sends and receives data, connecting PLCs or any machine in the network.
+A starting point for your industrial projects!
 
 
-## Hardware Used for Testing
-- Allen Bradley CompactLogix L36ERMS
-- Siemens ET 200SP (1510SP-1 PN CPU)
+## Software:
+- Python 3.11 for socket scripts
+- Studio 5000 v32 for Allen Bradley PLC
+- Tia Portal v18 for Siemens PLC
+
+
+## Tested on
+- AB CompactLogix 
+- Siemens ET
