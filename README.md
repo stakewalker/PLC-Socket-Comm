@@ -2,8 +2,8 @@
 
 Python Scripts and Ladder Programs for communication between Allen Bradley and Siemens PLCs, via TCP sockets.
 
-It sends and receives data, connecting PLCs or any machine in the network.
-A starting point for your industrial projects!
+It sends and receives data, bridging PLCs to any machine in the network.
+A good starting point for your industrial projects!
 
 
 ## Software:
