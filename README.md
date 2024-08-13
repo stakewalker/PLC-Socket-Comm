@@ -1,4 +1,4 @@
-# PLC Communication via TCP Sockets
+# Communicate PLCs via TCP Sockets
 
 Python scripts and PLC programs for communication between Allen Bradley and Siemens PLCs, using only TCP sockets
 
