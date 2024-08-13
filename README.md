@@ -6,6 +6,7 @@ It sends and receives data, bridging PLCs to any computer or device in the netwo
 
 A good starting point for your industrial projects!
 
+- - -
 
 ## Software used:
 - Python 3.11 for software/client scripts
