@@ -2,7 +2,7 @@
 
 Python scripts and PLC programs for communication between Allen Bradley and Siemens PLCs, using only TCP sockets
 
-It sends and receives data, bridging PLCs to any computer or device in the network.
+It sends and receives data, bridging between PLCs or any computer or device in the network.
 
 A good starting point for your industrial projects!
 
