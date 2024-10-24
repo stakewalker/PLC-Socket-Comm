@@ -10,5 +10,5 @@ A good starting point for your industrial projects!
 
 ## Software used:
 - Python 3.11 for software/client scripts
-- Tia Portal v18 for Siemens PLCs
-- Studio 5000 v32 for Allen Bradley PLCs
+- Tia Portal (v18) for Siemens PLC
+- Studio 5000 (v32) for Allen Bradley PLC
