@@ -6,7 +6,9 @@ It sends and receives data, bridging between PLCs or any computer or device in t
 
 A good starting point for your industrial projects!
 
+
 - - -
+
 
 ## Software used:
 - Python 3.11 for software/client scripts
